@@ -1,0 +1,255 @@
+
+
+@media (max-width:938px){
+    main{display:inline-block;margin-top:70px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:550px ;width: 100%;}
+
+
+    .frente{max-width:100%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 20px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+.fechar{position:absolute;left:680px;top:148px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+
+@media (max-width:900px){
+    main{display:inline-block;margin-top:70px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:450px ;width: 100%;}
+
+
+    .frente{max-width:100%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 20px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+.fechar{position:absolute;left:662px;top:158px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+
+@media (max-width:832px){
+    main{display:inline-block;margin-top:20px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:410px ;width: 100%;}
+
+
+    .frente{max-width:85%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 20px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+.fechar{position:absolute;left:619px;top:108px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+
+@media (max-width:800px){
+    main{display:inline-block;margin-top:30px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:390px ;width: 100%;}
+
+
+    .frente{max-width:85%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 20px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+.fechar{position:absolute;left:594px;top:108px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+
+
+@media (max-width:731px){
+    main{display:inline-block;margin-top:50px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:350px ;width: 100%;}
+
+
+    .frente{max-width:73%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 20px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+.fechar{position:absolute;left:539px;top:124px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+
+@media (max-width:700px){
+    main{display:inline-block;margin-top:50px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:330px ;width: 100%;}
+
+
+    .frente{max-width:73%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 20px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+.fechar{position:absolute;left:514px;top:129px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+
+
+@media (max-width:631px){
+    main{display:inline-block;margin-top:30px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:250px ;width: 100%;}
+
+
+    .frente{max-width:60%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 20px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+.fechar{position:absolute;left:440px;top:120px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+
+
+
+@media (max-width:601px){
+    main{display:inline-block;margin-top:20px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:300px ;width: 100%;}
+
+
+    .frente{max-width:65%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 10px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+.fechar{position:absolute;left:445px;top:59px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+
+
+@media (max-width:531px){
+    
+    body{overflow: hidden;}
+    main{display:inline-block;margin-top:10px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:300px ;width: 100%;}
+
+
+    .frente{max-width:69%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 20px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+
+.fechar{position:absolute;left:414px;top:90px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+@media (max-width:500px){
+
+    body{overflow: hidden;}
+    main{display:inline-block;margin-top:15px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:300px ;width: 100%;}
+
+
+    .frente{max-width:70%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 20px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+
+.fechar{position:absolute;left:399px;top:97px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+
+
+@media (max-width:430px){
+    main{display:inline-block;margin-top:110px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:300px ;width: 100%;}
+
+
+    .frente{max-width:100%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 90px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+
+.fechar{position:absolute;left:364px;top:143px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px;}}
+
+
+@media (max-width:400px){
+    main{display:inline-block;margin-top:90px;padding: 15px;position: relative;}
+
+    .pokedex{ max-width:300px ;width: 100%;}
+
+
+    .frente{max-width:100%;overflow: hidden;overflow-x:hidden;}
+
+.frente_pokedex{ max-width: 100%; 
+    width: 100%; 
+    position: absolute; 
+    left: 50%; 
+    top: 90px;
+    transform: translateX(-50%); 
+    
+    overflow: hidden; 
+}
+
+.fechar{position:absolute;left:345px;top:155px;background-color:  rgb(193, 15, 15);width: 30px;height: 50px;border-top-right-radius:5px ;border-bottom-right-radius: 5px}}
+
+  
